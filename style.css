@@ -1052,7 +1052,7 @@ html {
   height: 250px;
   background: var(--color-bg-2);
   border-radius: 50%;
-  background-image: url('assets/DSC_0579.jpg');
+  background-image: url('assets/shoto-todoroki.jpg');
   background-size: cover;
   background-position: center;
   transition: transform var(--duration-normal) var(--ease-standard);
