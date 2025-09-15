@@ -1,104 +1,107 @@
-# Manoj Michael Raj
+# 👋 Hi, I'm Manoj Michael Raj
 
-Experienced Full Stack Developer focused on building responsive apps, performance optimisation, and reliable deployments. Comfortable across frontend and backend stacks with hands-on experience in React/React Native, Java, and MySQL.  
-
----
-
-## Contact
-- **Email:** [michael007.ferr@gmail.com](mailto:michael007.ferr@gmail.com)  
-- **Phone:** [+91 97878 37000](tel:+919787837000)  
-- **Location:** Trichy, Tamil Nadu, India
+💻 **Full Stack Developer** passionate about building responsive, high-performance applications and solving real-world problems with clean, scalable code.
 
 ---
 
-## Skills
-- React Native · React.js · JavaScript · HTML & CSS · SASS  
-- Java · Python · MySQL · Full-Stack Development  
-- Android App Development · App Performance Optimization  
-- Artificial Intelligence (applied/integrations)
+## 📬 Contact
+
+- 📧 **Email:** [michael007.ferr@gmail.com](mailto:michael007.ferr@gmail.com)  
+- 📱 **Phone:** [+91 97878 37000](tel:+919787837000)  
+- 📍 **Location:** Trichy, Tamil Nadu, India  
 
 ---
 
-## Experience
+## 🛠 Skills
 
-### AI Product Engineer — *Stealth Startup* (Remote, India)  
-**06/2024 – present**  
-- Built responsive, dynamic user interfaces using React and Next.js.  
-- Integrated AI-powered sorting and filtering logic into the UI.  
-- Collaborated on a scalable venue-booking platform and assisted in training/integrating a custom recommendation model.
-
-### Jr. Full Stack Developer — *ParamInfo (Cobone)* (Remote, India)  
-**11/2023 – 05/2024**  
-- Led development and maintenance of the Cobone mobile app (React Native).  
-- Published updates to Google Play Store & Apple App Store.  
-- Built/maintained web applications using JavaScript, SASS, HTML5.  
-- Fixed bugs and improved app performance for smoother UX. 
-
-### Project Engineer — *Wipro* (Chennai, India)  
-**03/2023 – 10/2023**  
-- Developed enterprise applications with Java and MySQL.  
-- Designed DB schemas, optimized queries, and handled deployments.  
-- Completed full-stack training (Java, advanced SQL, AWS deployment).  
-- Built sample apps: **FlyAway** (ticket booking portal) and an e-commerce food portal. 
+- **Frontend:** React Native · React.js · JavaScript · HTML · CSS · SASS  
+- **Backend:** Java · Python · MySQL  
+- **Other:** Full-Stack Development · Android App Development · App Performance Optimization · AI Integrations  
 
 ---
 
-## Projects
-- **FlyAway** — Ticket booking portal built using AngularJS and MySQL.  
-  GitHub: https://github.com/Michael-25/FlyAway.
+## 💼 Experience
 
-- **Food Box** — Wipro FSD capstone: dynamic & responsive food delivery web app.
-
-- **Crime Registration** — Smart India Hackathon app for filing and tracking police complaints.
-
-- **College Website** — Website developed for Saranathan College of Engineering.
-
-- **Food Court (2019 Project Expo)** — Java-based ordering app using advanced DB concepts.
-
-- **2022 Capstone (ML/NLP)** — Machine Learning capstone published in the Internal Journal of Innovative Research in Computer and Communication Engineering.
+### 🚀 AI Product Engineer — *Stealth Startup*  
+📍 Remote, India · 🗓 **Jun 2024 – Present**  
+- Built responsive, dynamic UIs using **React** and **Next.js**  
+- Integrated **AI-powered** sorting and filtering logic  
+- Collaborated on a scalable **venue-booking platform**  
+- Assisted in training & integrating a **custom recommendation model**  
 
 ---
 
-## Education
-**B.E. Computer Science & Engineering** — Saranathan College of Engineering (Anna University)  
-**08/2018 – 06/2022** · **CGPA:** 8.52 / 10.
+### 🏗 Jr. Full Stack Developer — *ParamInfo (Cobone)*  
+📍 Remote, India · 🗓 **Nov 2023 – May 2024**  
+- Led development & maintenance of **Cobone mobile app** (React Native)  
+- Published updates to **Google Play Store** & **Apple App Store**  
+- Built & maintained **web applications** using JS, SASS, HTML5  
+- Fixed bugs and improved **app performance** for a smoother UX  
 
 ---
 
-## Certificates & Courses
-- Certificate in **Ethical Hacking** — MyCaptain  
-- Certificate in **Android App Development** — MyCaptain  
-- Workshop: **Bioinformatics** — Computer Society of India  
-
-
----
-
-## Languages
-- English · Tamil
+### 🖥 Project Engineer — *Wipro*  
+📍 Chennai, India · 🗓 **Mar 2023 – Oct 2023**  
+- Developed enterprise apps using **Java** and **MySQL**  
+- Designed DB schemas, optimized queries, and handled deployments  
+- Completed full-stack training (**Java**, **SQL**, **AWS**)  
+- Built sample projects:
+  - **FlyAway** (Ticket Booking Portal)
+  - **E-commerce Food Portal**
 
 ---
 
-## Interests
-PC Hardware & Tech · E-Sports · Anime
+## 📂 Projects
+
+- **FlyAway** — Ticket booking portal built with AngularJS & MySQL  
+  🔗 [GitHub Repo](https://github.com/Michael-25/FlyAway)
+
+- **Food Box** — Wipro FSD capstone: dynamic & responsive food delivery web app  
+
+- **Crime Registration** — Smart India Hackathon app for police complaint filing & tracking  
+
+- **College Website** — Website for Saranathan College of Engineering  
+
+- **Food Court (2019 Project Expo)** — Java-based ordering app with advanced DB concepts  
+
+- **ML/NLP Capstone** — Published in *Internal Journal of Innovative Research in Computer and Communication Engineering*  
 
 ---
 
-## How to view / run my projects
-1. Clone the repository.  
+## 🎓 Education
+
+**B.E. Computer Science & Engineering**  
+Saranathan College of Engineering (Anna University)  
+📅 **Aug 2018 – Jun 2022** · 🎯 **CGPA:** 8.52 / 10  
+
+---
+
+## 📜 Certificates & Courses
+
+- Ethical Hacking — *MyCaptain*  
+- Android App Development — *MyCaptain*  
+- Bioinformatics Workshop — *Computer Society of India*  
+📁 [View Certificates](https://github.com/Michael-25/Certificates)
+
+---
+
+## 🌐 Languages
+
+- **English**  
+- **Tamil**
+
+---
+
+## 🎮 Interests
+
+PC Hardware & Tech · E-Sports · Anime  
+
+---
+
+## 🛠 How to Run My Projects
+
+1. Clone the repository  
 2. For React/React Native projects:
-   - `npm install` or `yarn`  
-   - `npm start` / `yarn start` (web)  
-   - For React Native: follow platform-specific steps (`npx react-native run-android` or use Expo if applicable).  
-3. For Java/MySQL apps: import project into IDE, configure DB connection, run the main class or deploy to your app server.
-
-(If you share a specific repo, I can add exact run/installation steps per project.)
-
----
-
-## Links
-- Cobone (example deal): https://www.cobone.com/en/deals/dubai  
-- FlyAway GitHub: https://github.com/Michael-25/FlyAway  
-- Certificates: https://github.com/Michael-25/Certificates  
-(Links referenced from resume.) 
-
----
+   ```bash
+   npm install   # or yarn
+   npm start     # for web
