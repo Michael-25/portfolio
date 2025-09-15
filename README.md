@@ -1,7 +1,6 @@
 # Manoj Michael Raj
 
 Experienced Full Stack Developer focused on building responsive apps, performance optimisation, and reliable deployments. Comfortable across frontend and backend stacks with hands-on experience in React/React Native, Java, and MySQL.  
-(Contact and details sourced from resume.) :contentReference[oaicite:1]{index=1}
 
 ---
 
