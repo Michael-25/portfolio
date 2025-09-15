@@ -17,8 +17,6 @@ Experienced Full Stack Developer focused on building responsive apps, performanc
 - Android App Development · App Performance Optimization  
 - Artificial Intelligence (applied/integrations)
 
-(Skills listed as in resume.) :contentReference[oaicite:2]{index=2}
-
 ---
 
 ## Experience
@@ -27,14 +25,14 @@ Experienced Full Stack Developer focused on building responsive apps, performanc
 **06/2024 – present**  
 - Built responsive, dynamic user interfaces using React and Next.js.  
 - Integrated AI-powered sorting and filtering logic into the UI.  
-- Collaborated on a scalable venue-booking platform and assisted in training/integrating a custom recommendation model. :contentReference[oaicite:3]{index=3}
+- Collaborated on a scalable venue-booking platform and assisted in training/integrating a custom recommendation model.
 
 ### Jr. Full Stack Developer — *ParamInfo (Cobone)* (Remote, India)  
 **11/2023 – 05/2024**  
 - Led development and maintenance of the Cobone mobile app (React Native).  
 - Published updates to Google Play Store & Apple App Store.  
 - Built/maintained web applications using JavaScript, SASS, HTML5.  
-- Fixed bugs and improved app performance for smoother UX. :contentReference[oaicite:4]{index=4}
+- Fixed bugs and improved app performance for smoother UX. 
 
 ### Project Engineer — *Wipro* (Chennai, India)  
 **03/2023 – 10/2023**  
@@ -47,7 +45,7 @@ Experienced Full Stack Developer focused on building responsive apps, performanc
 
 ## Projects
 - **FlyAway** — Ticket booking portal built using AngularJS and MySQL.  
-  GitHub: https://github.com/Michael-25/FlyAway. :contentReference[oaicite:6]{index=6}
+  GitHub: https://github.com/Michael-25/FlyAway.
 
 - **Food Box** — Wipro FSD capstone: dynamic & responsive food delivery web app.
 
@@ -57,13 +55,13 @@ Experienced Full Stack Developer focused on building responsive apps, performanc
 
 - **Food Court (2019 Project Expo)** — Java-based ordering app using advanced DB concepts.
 
-- **2022 Capstone (ML/NLP)** — Machine Learning capstone published in the Internal Journal of Innovative Research in Computer and Communication Engineering. :contentReference[oaicite:7]{index=7}
+- **2022 Capstone (ML/NLP)** — Machine Learning capstone published in the Internal Journal of Innovative Research in Computer and Communication Engineering.
 
 ---
 
 ## Education
 **B.E. Computer Science & Engineering** — Saranathan College of Engineering (Anna University)  
-**08/2018 – 06/2022** · **CGPA:** 8.52 / 10. :contentReference[oaicite:8]{index=8}
+**08/2018 – 06/2022** · **CGPA:** 8.52 / 10.
 
 ---
 
@@ -71,7 +69,7 @@ Experienced Full Stack Developer focused on building responsive apps, performanc
 - Certificate in **Ethical Hacking** — MyCaptain  
 - Certificate in **Android App Development** — MyCaptain  
 - Workshop: **Bioinformatics** — Computer Society of India  
-(Links to certificates stored on your GitHub: `Michael-25/Certificates`.) 
+
 
 ---
 
