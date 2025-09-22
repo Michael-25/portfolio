@@ -3,127 +3,109 @@ class PortfolioApp {
   constructor() {
     this.data = {
       personalInfo: {
-        name: "Alex Johnson",
+        name: "Manoj Michael Raj",
         title: "Full Stack Developer",
-        email: "alex.johnson@example.com",
-        phone: "+1 (555) 123-4567",
-        location: "San Francisco, CA",
-        bio: "Passionate full-stack developer with 5+ years of experience building scalable web applications using modern technologies. Specializing in Angular, Node.js, and cloud architecture.",
-        resume: "/assets/resume.pdf",
+        email: "michael007.ferr@gmail.com",
+        phone: "+91 97878 37000",
+        location: "Trichy, Tamil Nadu, India",
+        bio: "Experienced Full Stack Developer skilled in app development, performance optimization, and seamless deployments. Proven ability to collaborate across teams to implement and integrate new features.",
+        resume: "./assets/Manoj-Michael-Raj-R1.pdf",
         social: {
-          github: "https://github.com/alexjohnson",
-          linkedin: "https://linkedin.com/in/alexjohnson",
-          twitter: "https://twitter.com/alexjohnson"
+          github: "https://github.com/Michael-25",
+          linkedin: "https://www.linkedin.com/in/michaelraj25/"
         }
       },
       skills: {
         frontend: [
-          {"name": "Angular", "level": 95},
-          {"name": "TypeScript", "level": 90},
-          {"name": "Node.js", "level": 80},
-          {"name": "HTML5/CSS3", "level": 85},
-          {"name": "C / C++", "level": 70},
+          {"name": "React", "level": 90},
+          {"name": "React Native", "level": 85},
+          {"name": "JavaScript", "level": 90},
+          {"name": "HTML5/CSS3", "level": 85}
         ],
         backend: [
-          {"name": ".NET Core", "level": 85},
-          {"name": "C#", "level": 85},
-          {"name": ".NET MVC", "level": 70},
-          {"name": "SQL (SSMS)", "level": 80},
-          {"name": "REST APIs", "level": 80},
+          {"name": "Java", "level": 80},
+          {"name": "MySQL", "level": 80},
+          {"name": "REST APIs", "level": 85},
+          {"name": "Python", "level": 70}
         ],
         tools: [
-          {"name": "Github", "level": 90},
-          {"name": "Docker", "level": 85},
-          {"name": "Azure Portal", "level": 70},
-          {"name": "Azure DevOps", "level": 80},
-          {"name": "Postman", "level": 90},
-          {"name": "JWT", "level": 80},
-          {"name": "MPlabs", "level": 60},
-          {"name": "Arduino", "level": 80},
-          {"name": "SDLC", "level": 90},
-          {"name": "Microservices", "level": 80},
-          {"name": "CI/CD", "level": 80}
+          {"name": "GitHub", "level": 90},
+          {"name": "Postman", "level": 85},
+          {"name": "Docker", "level": 70},
+          {"name": "AI/ML", "level": 60},
+          {"name": "SDLC", "level": 85}
         ]
       },
       projects: [
         {
           id: 1,
-          title: "Global Mobility Application",
-          description: "Visa Request Appplication, but enhanced with Angular and .NET with added features and dynamic configurations, all handled in a single Admin Page and scaled using microservice architecture. Upto 10 modules are lazy-loaded and served only when the main application needs it (so called microservice).",
-          technologies: ["Angular", "TypeScript", "C#" ,".NET Core", "SSMS", "Docker", "Microservices", "Github"],
+          title: "FlyAway Ticket Booking Portal",
+          description: "Built a complete ticket booking portal using AngularJS and MySQL during Wipro training. Includes user login, search, and booking features.",
+          technologies: ["AngularJS", "MySQL", "Java"],
+          githubUrl: "https://github.com/Michael-25/FlyAway"
         },
         {
           id: 2,
-          title: "Visa Request Application",
-          description: "Existing .NET MVC application. Basic functionaliies of applying visas and handling requests. More of static fields and worked on tech debts",
-          technologies: [".NET", ".NET MVC", "C#", "SSMS", "Github"],
+          title: "Food Box - Online Food Delivery",
+          description: "Developed a responsive food ordering portal as part of Wipro FSD training. Focused on user experience and secure authentication.",
+          technologies: ["HTML", "CSS", "Java", "MySQL"]
         },
         {
           id: 3,
-          title: "SP Creator App - API Services",
-          description: "REST API to handle API calls for SP creator App. Used In-Demand JWT Auth and dynamically handled SP creation functionalities in DB side. Used Entity Framework for handling DB contexts in API.",
-          technologies: [".NET Core", ".NET Entity Framework", "C#", "JWT", "SSMS"],
-          githubUrl: "https://github.com/alexjohnson/weather-platform",
+          title: "Crime Registration App - SIH",
+          description: "Created an Android app for registering police complaints and tracking their status for Smart India Hackathon.",
+          technologies: ["Java", "Android", "MySQL"]
         },
         {
           id: 4,
-          title: "SP Creator App - Web Application",
-          description: "Dynamic Web app that has both configurator and SP previewer. Easy to use for beginners and also can handle most dynamic SP parts. Can be scaled up more.",
-          technologies: ["Angular", "Typescript", "HTML", "CSS", "Javascript"],
-          githubUrl: "https://github.com/alexjohnson/portfolio-generator",
+          title: "College Website",
+          description: "Built a modern website for Saranathan College of Engineering as a student project.",
+          technologies: ["HTML", "CSS", "JavaScript"]
         },
         {
           id: 5,
-          title: "Employee Management App",
-          description: "Employee Management app with Month table tracker, mobile app for updating timesheet, Inventory management, Client List and much more. A power packed app with in-demand JWT auth and encryption features, end to end.",
-          technologies: ["Angular", "Typescript", "Kotlin", ".NET Core", "C#", "Java", "Postgres", "Github"],
-          githubUrl: "https://github.com/alexjohnson/portfolio-generator",
-        },
-        {
-          id: 6,
-          title: "Network Sniffer - (Flipper Zero's clone (lite version))",
-          description: "Sniffing tool and a much more flexible and robust device, not like flipper zero, but can be scalable to any extent. The device fulfils Network Analysis, Packet Sniffing, Spoofing, AP provider, portable server, and also the hardwares in it can be scalable too.",
-          technologies: ["C++", "Electronics", "Reverse Engineering", "HTML", "CSS", "Hardwares", "IOT"],
-          githubUrl: "https://github.com/alexjohnson/portfolio-generator",
+          title: "Food Court - Project Expo",
+          description: "Designed a Java-based application for food ordering system with advanced DB concepts.",
+          technologies: ["Java", "MySQL"]
         }
       ],
       experience: [
         {
-          company: "Cognizant Technlogy Solutions",
-          position: "Associate - Full Stack Developer",
-          duration: "August 2024 – Present",
-          location: "Chennai, India",
+          company: "Stealth Startup",
+          position: "AI Product Engineer",
+          duration: "June 2024 – Present",
+          location: "Remote, India",
           achievements: [
-            "Led end-to-end testing protocols across SDLC phases, reducing post-launch bug reports by 40%, therebyimproving client satisfaction.",
-            "Authored clean, efficient, and reusable code, reducing technical debt by 30% through continuous refactoring andcode reviews.",
-            "Boosted application performance by 40%, ensuring scalability and robustness for enterprise applications.",
-            "Designed and integrated complex Excel-to-API business workflows and dynamic DB queries without third-partylibraries, cutting costs and meeting scaling needs.",
-            "Increased developer productivity by 25+ hours/month by simplifying logic flows and cross-team collaborationprocesses.",
-            "Delivered zero-defect production releases by taking ownership of high-priority modules."
+            "Built responsive, dynamic user interfaces using React and Next.js.",
+            "Integrated AI-powered sorting and filtering logic into the UI.",
+            "Collaborated on building a scalable platform for booking venues.",
+            "Assisted in training and integrating a custom AI model for venue recommendation."
           ]
         },
         {
-          company: "Cognizant Technlogy Solutions",
-          position: "Programmer Analyst",
-          duration: "March 2023 – August 2024",
-          location: "Chennai, India",
+          company: "ParamInfo (Cobone)",
+          position: "Jr. Full Stack Developer",
+          duration: "Nov 2023 – May 2024",
+          location: "Remote, India",
           achievements: [
-            "Implemented guidelines for server object management, improving system reliability and reducing error logs.",
-            "Enhanced system performance across four major sprints, demonstrating consistent delivery in production timelines.",
-            "Suggested business alternate flows that reduced third-party dependencies, saving cost and integration efforts.",
-            "Delivered accepted POCs on emerging requirements, showcasing adaptability and quick learning",
-            "Maintained multiple front-end and back-end modules, ensuring coding standards and performance sustainability."
+            "Led the development and maintenance of the Cobone mobile app using React Native, delivering key features and updates.",
+            "Collaborated with designers and backend developers to implement and integrate new features.",
+            "Built and maintained web applications using JavaScript, SASS, and HTML5.",
+            "Published app updates on Google Play Store and Apple App Store.",
+            "Fixed bugs and improved app performance, ensuring a seamless user experience."
           ]
         },
         {
-          company: "Cognizant Technlogy Solutions",
-          position: "Programmer Analyst Trainee",
-          duration: "August 2022 – March 2023",
+          company: "Wipro",
+          position: "Project Engineer",
+          duration: "Mar 2023 – Oct 2023",
           location: "Chennai, India",
           achievements: [
-            "Developed enhancements for an existing Visa Request Application using .NET MVC.",
-            "Optimized logical workflows, simplifying business processes and improving system usability.",
-            "Delivered low-defect solutions by maintaining industry-best coding practices."
+            "Developed and maintained enterprise applications using Java and MySQL.",
+            "Designed database schemas and optimized queries for scalability.",
+            "Completed four months of full stack training covering Java, advanced SQL, and AWS deployment.",
+            "Built a ticket booking portal 'FlyAway' using AngularJS and MySQL.",
+            "Developed an E-commerce portal for food items focusing on user access and login management."
           ]
         }
       ]
@@ -132,18 +114,10 @@ class PortfolioApp {
     this.currentFilter = 'all';
     this.isLoading = true;
     this.theme = 'light';
-    this.animationStates = {
-      countersAnimated: false,
-      skillBarsAnimated: false,
-      timelineAnimated: false,
-      typewriterComplete: false,
-      heroAnimationStarted: false
-    };
-    
+    this.animationStates = { countersAnimated: false, skillBarsAnimated: false, timelineAnimated: false, typewriterComplete: false, heroAnimationStarted: false };
     this.scrollPosition = 0;
     this.isScrolling = false;
     this.reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-    
     this.init();
   }
 
